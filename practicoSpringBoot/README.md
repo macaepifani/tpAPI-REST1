@@ -1,0 +1,1 @@
+Proyecto que utiliza Spring Boot para crear una API REST. Se toma como ejemplo una única clase de entidad llamada Persona. La misma se persiste en la base de datos H2.
